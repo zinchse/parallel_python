@@ -18,5 +18,5 @@ and this repo contains **all the code needed** to answer them.
 
 ## ⛏️ Hot to use it? 
 
-To understand what will be discussed You can either watch the presentation [pdf](presentation.pdf) or read my [post](add_link_pls).
+To understand what will be discussed You can either watch the presentation [pdf](presentation.pdf) or read my [post](https://zinchse.github.io/blog/2023/parallel-python/).
 You can also get by with just the code. I tried to make it *self-describing* and *self-contained*.
