@@ -1,6 +1,8 @@
 # `parallel_python`
 > breaking stereotypes about parallelism in python with examples
 
+![image](https://github.com/zinchse/parallel_python/assets/58306690/1df4efef-966f-4f19-9423-2cb13cce3cf3)
+
 
 ## 🎯 Main goal 
 
